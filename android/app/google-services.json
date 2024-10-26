@@ -1,0 +1,133 @@
+{
+  "project_info": {
+    "project_number": "561567872018",
+    "firebase_url": "https://ticktree-dev-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ticktree-dev",
+    "storage_bucket": "ticktree-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561567872018:android:3ac53875435f83010514cb",
+        "android_client_info": {
+          "package_name": "com.example.ticket_tree_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561567872018-fpg1il7dqs55rd0s00o8j4usj458pgpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticket_tree_client",
+            "certificate_hash": "042aeb1e1752760a2002276099c757bc47e98b22"
+          }
+        },
+        {
+          "client_id": "561567872018-ljg44c8mihh9r9fdautdcpsnn9ludhfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticket_tree_client",
+            "certificate_hash": "a604dbcfb9f526b4d4a549aee8afeb2bc5465590"
+          }
+        },
+        {
+          "client_id": "561567872018-uco4es3hafemkfpao6kflvdenhdda54q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticket_tree_client",
+            "certificate_hash": "efc8efc04345526153a0c9588feda507fa6dd477"
+          }
+        },
+        {
+          "client_id": "561567872018-314ilp4og7juri65tggmll4mkp098g3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PJywQkLiey0uGUNsvOumsJAqYHw0Wyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561567872018-314ilp4og7juri65tggmll4mkp098g3i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561567872018-243beku2taoppdh52i81bj5uig664ikk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ticketTreeClient",
+                "app_store_id": "6695751063"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561567872018:android:3348eef59cd200d10514cb",
+        "android_client_info": {
+          "package_name": "com.ticket.tree.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561567872018-1uo24vbcqgpvf8r73iivb9ggolsd3o8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticket.tree.dev",
+            "certificate_hash": "a604dbcfb9f526b4d4a549aee8afeb2bc5465590"
+          }
+        },
+        {
+          "client_id": "561567872018-a035n713c6r5tiuigembjqqco0b0kudu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticket.tree.dev",
+            "certificate_hash": "042aeb1e1752760a2002276099c757bc47e98b22"
+          }
+        },
+        {
+          "client_id": "561567872018-h8t489b35pkbogdfeescjrfit17t3s3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticket.tree.dev",
+            "certificate_hash": "efc8efc04345526153a0c9588feda507fa6dd477"
+          }
+        },
+        {
+          "client_id": "561567872018-314ilp4og7juri65tggmll4mkp098g3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PJywQkLiey0uGUNsvOumsJAqYHw0Wyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561567872018-314ilp4og7juri65tggmll4mkp098g3i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561567872018-243beku2taoppdh52i81bj5uig664ikk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ticketTreeClient",
+                "app_store_id": "6695751063"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
